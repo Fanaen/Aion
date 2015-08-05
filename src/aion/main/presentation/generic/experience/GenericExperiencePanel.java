@@ -6,9 +6,6 @@ package aion.main.presentation.generic.experience;
 
 import aion.main.core.Experience;
 import aion.main.core.environment.Position;
-import java.awt.Color;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
 import javax.swing.BoxLayout;
 
 /**

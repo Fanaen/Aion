@@ -1,8 +1,6 @@
 package aion.main.core.environment;
 
-import aion.main.core.subject.SubjectSchema;
 import java.io.Serializable;
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.LinkedList;

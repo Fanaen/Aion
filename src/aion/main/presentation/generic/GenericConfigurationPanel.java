@@ -10,7 +10,6 @@ import aion.main.core.subject.Subject;
 import aion.main.core.time.AbstractSequence;
 import aion.main.core.time.Sequence;
 import aion.main.core.time.SequenceList;
-import aion.main.presentation.MainView;
 import aion.main.presentation.generic.config.environment.EnvironmentConfigModule;
 import aion.main.presentation.generic.config.subject.SubjectConfigModule;
 import aion.main.presentation.generic.config.time.TimeConfigModule;

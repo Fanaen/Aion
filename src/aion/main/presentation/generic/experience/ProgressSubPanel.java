@@ -4,8 +4,6 @@
  */
 package aion.main.presentation.generic.experience;
 
-import aion.main.core.subject.SubjectSchema.FolderIterator;
-
 /**
  *
  * @author Fanaen

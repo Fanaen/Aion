@@ -4,7 +4,6 @@
  */
 package aion.main.presentation.generic.config.time;
 
-import aion.main.core.time.AbstractSequence;
 import aion.main.core.time.Sequence;
 import javax.swing.tree.DefaultMutableTreeNode;
 

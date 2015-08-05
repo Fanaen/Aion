@@ -5,7 +5,6 @@
 package aion.main.presentation.generic;
 
 import java.awt.CardLayout;
-import java.awt.event.WindowEvent;
 import javax.swing.JPanel;
 
 /**

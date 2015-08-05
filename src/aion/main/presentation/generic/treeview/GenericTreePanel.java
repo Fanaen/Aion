@@ -5,8 +5,6 @@
 package aion.main.presentation.generic.treeview;
 
 import java.awt.CardLayout;
-import java.awt.Color;
-import java.awt.GridLayout;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -17,7 +15,6 @@ import java.util.regex.Pattern;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
-import javax.swing.JTextArea;
 import javax.swing.JTextField;
 import javax.swing.event.TreeModelEvent;
 import javax.swing.event.TreeModelListener;

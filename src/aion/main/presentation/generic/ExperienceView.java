@@ -6,14 +6,10 @@ package aion.main.presentation.generic;
 
 import aion.main.core.EndExperienceException;
 import aion.main.core.Experience;
-import aion.main.core.environment.Position;
 import aion.main.presentation.generic.experience.GenericExperiencePanel;
 import java.awt.BorderLayout;
-import java.util.Iterator;
-import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.swing.event.InternalFrameListener;
 
 /**
  *

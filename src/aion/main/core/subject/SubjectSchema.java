@@ -1,6 +1,5 @@
 package aion.main.core.subject;
 
-import aion.main.core.time.TimeSchema;
 import java.io.Serializable;
 import java.util.LinkedList;
 import java.util.List;
