@@ -13,3 +13,6 @@ hs_err_pid*
 build.xml
 nbproject/
 manifest.mf
+/build/
+Data/
+Log/
